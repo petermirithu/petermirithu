@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Looking for a Software Developer?
 
 💬 I am Peter Mirithu, an objective-oriented Professional Software Developer with a passion in programming.
-As a Software Developer, I enjoy solving problems, making new applications and posing a big impact whenever I go. Currenlty, I am a Software Engineer Intern at Vitafluence.ai were we create compassionate AI that solves specific important human health problems such as improving the mental health conditions for children.
+As a Software Developer, I enjoy solving problems, making new applications and posing a big impact whenever I go. Currenlty, I am a Software Engineer Intern at <b>Vitafluence.ai</b> were we create compassionate AI that solves specific important human health problems such as improving the mental health conditions for children.
 
 
 <br>
