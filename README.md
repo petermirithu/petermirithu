@@ -92,28 +92,6 @@ I am particularly driven by impactful products in **healthcare**, **education**,
 
 ---
 
-## Work Experience (Brief)
-
-### Software Engineer — Vitafluence.ai (Full Time)
-**Aug 2024 – Present | Nairobi, Kenya**
-- Building AI-powered agents and ML solutions for healthcare-focused products.
-- Developing production web/mobile systems using Python, Django, and React Native.
-- Deploying and troubleshooting cloud workloads across AWS and GCP.
-
-### Software Engineer — Vitafluence.ai (Intern)
-**May 2024 – Jul 2024 | Frankfurt, Germany**
-- Built AI assistant features, mobile app capabilities, and backend integrations.
-- Contributed to Xaidi (AI health companion) across mobile, backend, and AI layers.
-- Helped improve real-time AI UX and represented product innovations at VivaTech 2024.
-
-### Software Engineer — iZola LTD (Part Time)
-**Oct 2020 – Apr 2024 | Nairobi, Kenya**
-- Developed and maintained health/research platforms and Android tools.
-- Shipped multilingual support, dashboards, APIs, and AI chatbot features.
-- Supported therapist/client workflows with scalable full-stack solutions.
-
----
-
 ## Featured Project
 
 ### Mali Mobile App — AI-Powered Kenyan Financial Intelligence App (Ongoing)
@@ -121,25 +99,6 @@ I am particularly driven by impactful products in **healthcare**, **education**,
 Mali is an AI-powered mobile app for the Kenyan market that tracks real-world economic signals (fuel prices, food costs, forex fluctuations) and translates them into clear, personalized insights on cost of living and business impact.
 
 **Tech Stack:** React Native (Expo), FastAPI, Firebase, LangChain, LangGraph, Supabase, Azure OpenAI
-
----
-
-## Education
-
-**B.Sc. Applied Computer Technology**  
-United States International University - Africa  
-**May 2020 – Aug 2024 | Nairobi, Kenya**  
-Field: Computer Software Engineering | **GPA: 3.621 (Cum Laude)**
-
----
-
-## Certifications
-
-- **Certificate of Achievement** — AI Campus (Apr 2025)
-- **Certificate of Recognition** — A2SV | Africa to Silicon Valley (Aug – Oct 2024)
-- **Certificate of Excellence in Web Development** — Moringa School (Aug 2019 – Jan 2020)
-- **Certificate of Attendance in Discipleship Mission Training** — Foundation for Cross-cultural Education (Apr – Jun 2019)
-- **Certificate of Participation in ICT Competence** — Daystar University (Jan – Apr 2019)
 
 ---
 
