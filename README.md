@@ -1,5 +1,8 @@
+<h1 align="center">PETER MIRITHU</h1>
+<h3 align="center">Software Engineer | AI/ML Engineer | Mobile App Developer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00A3FF&center=true&vCenter=true&width=980&lines=Peter+Mirithu;Software+Engineer+%7C+AI%2FML+Engineer+%7C+Mobile+App+Developer;Building+intelligent%2C+scalable+products+for+real-world+impact" alt="Typing Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0EA5E9&height=220&section=header&text=Building%20Intelligent%20Software&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20Web%20%7C%20Mobile%20Engineering&descAlignY=58&descSize=18" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -29,12 +32,6 @@ I am **Peter Mirithu**, a Software Engineer with 4+ years of experience building
 I specialize in turning complex problems into practical, production-ready products using **Python**, **JavaScript/TypeScript**, and modern AI tooling such as **LangChain**, **LangGraph**, and **LLM APIs**. My work spans backend systems, AI agents, mobile apps, and cloud deployment on **AWS**, **GCP**, and **Azure**.
 
 I am particularly driven by impactful products in **healthcare**, **education**, and **productivity**.
-
----
-
-## Title
-
-**Software Engineer | AI/ML Engineer | Mobile App Developer**
 
 ---
 
